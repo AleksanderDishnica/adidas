@@ -1,2 +1,2 @@
 # adidas
-Created with CodeSandbox
+Fun project in react with search
